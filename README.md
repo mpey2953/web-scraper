@@ -3,6 +3,14 @@
 # Web-Scraper
 ➿ 💡 My Web-Scraping projects that I have made to improve my skills and complete daily challenges.
 
-## Support the project
+<p align="center">
+<i>Inspired by my work? Please consider <a href="https://paypal.me/mpey2953/5">donating</a>  💸 to help me continue!</i>
+</p>
 
-<a href='https://ko-fi.com/D1D72IFMT' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<p align="center">
+<a href="https://www.paypal.me/mpey2953"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
+</a>
+<a href='https://ko-fi.com/mpey2953' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for mpey2953' />
+</a>
+<a href="https://www.buymeacoffee.com/mpey2953" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
+</p>
