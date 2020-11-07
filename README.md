@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
-[![GitHub commit](https://img.shields.io/github/last-commit/mpey2953/udacity)](https://github.com/mpey2953/web-scraper/commits/master)
+[![GitHub commit](https://img.shields.io/github/last-commit/mpey2953/web-scraper)](https://github.com/mpey2953/web-scraper/commits/master)
 
 ➿ 💡 My Web-Scraping projects that I have made to improve my skills and complete daily challenges.
 
